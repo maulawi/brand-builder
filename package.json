@@ -1,0 +1,13 @@
+{
+  "name": "digitalops-brand-builder",
+  "version": "1.0.0",
+  "description": "DigitalOps Brand Builder — a static, no-backend interactive guide (six modules) that turns a validated Offer Engineering output into a recognisable brand, via the AI Brand Studio (32 prompts) and an eight-section Brand Blueprint with PDF export. Production release.",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "serve": "npx --yes serve ."
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

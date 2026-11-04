@@ -1,0 +1,141 @@
+{
+  "id": "m5",
+  "number": 5,
+  "code": "05",
+  "title": "Brand Assets & Application System",
+  "framework": "The Consistency Grid",
+  "lessons": [
+    {
+      "id": "5.1",
+      "title": "Where your brand actually shows up",
+      "readTime": "5 min read",
+      "status": "approved",
+      "body": [
+        "Everything built so far — foundation, personality, voice, messaging, visual direction — only matters if it actually shows up consistently everywhere a stranger might meet your brand. This lesson starts with a plain inventory of those places, before Lesson 5.2 turns it into something you can check.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A solo creator's real touchpoints</div>Not a theoretical list — the places a real customer actually encounters you: <strong>social profiles</strong> (bio, profile picture, banner), <strong>content templates</strong> (whatever you reuse to make posts), <strong>product cover art</strong> (the thing people see before they buy), <strong>email</strong> (if you send it), <strong>a sales page</strong>, and a <strong>signature or sign-off</strong> (how you end things). Most solo creators have inconsistency in at least two or three of these without realising it, simply because each one got set up at a different time, before the rest of the system existed.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why this drifts without anyone deciding it should</div>A profile bio written six months ago, a product cover made last week, and a sales page drafted today rarely get compared side by side — so small inconsistencies accumulate invisibly. None of them is wrong in isolation; the problem only becomes visible when a stranger encounters two or three of them close together and the \"who's talking\" signal gets muddy.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What consistency actually means here</div>Not that every touchpoint looks identical — a sales page and a social post are different formats and should look like it. It means the same <strong>voice</strong>, the same <strong>colour direction</strong>, the same <strong>typography</strong>, and the same <strong>logo usage rules</strong> show up recognisably in each one, adapted to its format rather than abandoned for it.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What this module builds</div>Lesson 5.2 turns this inventory into the Consistency Grid — a practical checklist, not a design audit — and Lesson 5.3 adds one or two small, repeatable Signature Elements that make your content recognisable even when no logo is visible at all."
+      ],
+      "insight": "Inconsistency rarely happens on purpose — it accumulates one touchpoint at a time, each one reasonable in isolation."
+    },
+    {
+      "id": "5.2",
+      "title": "Build your Consistency Grid",
+      "readTime": "5 min read",
+      "status": "approved",
+      "body": [
+        "The Consistency Grid is deliberately simple: your touchpoints from Lesson 5.1 down one side, your identity elements across the top, checked off where each one is actually applied today — not where it should be, where it actually is.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">The four elements being checked</div><strong>Voice</strong> — does this touchpoint sound like your Voice Rules Card, or was it written before the rules existed? <strong>Colour</strong> — does it use your chosen colour direction? <strong>Typography</strong> — wherever you control the typeface (not always possible on third-party platforms), does it match? <strong>Logo use</strong> — is your logo direction applied correctly, or is an old version still floating around somewhere?",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why this stays a checklist, not an audit</div>A full design audit would mean reviewing every post, every page, every email ever sent — valuable in theory, paralysing in practice for a solo creator with limited time. The Grid asks a narrower, more useful question: for each touchpoint, right now, is it generally aligned or not? That's enough to find the two or three places actually worth fixing first, without turning this into a project of its own.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A worked example — hypothetical</div>A hypothetical content-planning creator's grid might show: social profiles — voice ✓, colour ✓, typography (n/a on this platform), logo ✓; email — voice ✗ (written in an older, more formal tone before the Voice Rules existed), colour ✓, logo ✓; sales page — voice ✓, colour ✗ (still using an old accent colour), typography ✓, logo ✓. The grid doesn't fix anything by itself — it just makes the two real gaps (email voice, sales page colour) visible and specific enough to actually address.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What to do with the gaps</div>Not everything needs fixing today. A gap on a touchpoint that gets little traffic matters less than one on your highest-visibility page. Treat the Grid as a prioritisation tool — start with the touchpoint a new customer is most likely to see first."
+      ],
+      "insight": "The Consistency Grid isn't a design audit — it's a short, specific checklist you can actually run before publishing something new."
+    },
+    {
+      "id": "5.3",
+      "title": "Design your Signature Elements",
+      "readTime": "4 min read",
+      "status": "approved",
+      "body": [
+        "A logo is one way to be recognised. It isn't the only one — and for a lot of solo-creator content (a caption, a comment reply, a voice note), it isn't even visible. Signature Elements are the recognisable pattern that works even when nothing visual is showing.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What counts as a Signature Element</div>A consistent sign-off line used at the end of every piece of content. A recurring visual motif — the same small graphic device, used the same way, every time. A consistent content structure — every post follows the same recognisable shape, even with different topics. The common thread: something small, deliberately repeated, that a regular reader would notice if it suddenly disappeared.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why one or two, not five</div>A Signature Element only works if it's actually repeated every time — five of them is harder to maintain consistently than one, and inconsistent repetition defeats the entire purpose. Pick the one or two you can genuinely keep up without it becoming a chore, and let those do the recognition work.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A worked example — hypothetical</div>A hypothetical content-planning creator's Signature Element: every piece of advice ends with the same closing line — \"Now go put it on the calendar\" — a small, repeated nudge that's specific to this brand's emphasis on actually executing, not just planning. A regular reader would recognise a post as theirs from that line alone, before reading anything else.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">How this connects to Module 1's Signature</div>Your Brand Anchor's Signature (Lesson 1.3) was the trait that makes this brand recognisable at the strategic level — a Signature Element here is often the concrete, repeatable expression of that same trait. If the two feel unrelated, it's worth checking whether the Element is actually expressing the Anchor, or just a stylistic habit that happened to stick."
+      ],
+      "insight": "A Signature Element only works if it's small enough to repeat every single time — one kept consistently beats five kept occasionally."
+    }
+  ],
+  "exercise": {
+    "type": "consistency-grid",
+    "instructions": "Check off where each identity element is actually applied today, then set your signature elements."
+  },
+  "prompts": [
+    {
+      "id": "m5-brand-application-auditor",
+      "tier": "core",
+      "category": "Brand Assets",
+      "title": "Brand Application Auditor",
+      "objective": "Check one real piece of your own content against your Voice Rules, Message Ladder and Consistency Grid, naming specific drift instead of generic feedback.",
+      "requiredInputs": ["Your Voice Rules", "Your One-Liner/messaging", "Your Consistency Grid", "The piece of content to check"],
+      "template": "You are a brand consistency auditor. My Voice Rules: {{m2.voiceRulesSummary}}. My messaging (One-Liner): {{m3.oneLiner}}. My Consistency Grid (checked touchpoint/element pairs): {{m5.consistencyGridSummary}}. Here's the content to check: [paste the real piece of content here]. If I haven't pasted anything, ask me for a real piece of content before continuing — this only works against something actual, not hypothetically. Check it against my Voice Rules, my messaging, and whatever my Consistency Grid says should be consistent here. Name specific drift — an exact phrase or choice that doesn't match — rather than giving generic praise or generic criticism. If it holds up, say so plainly.",
+      "expectedOutput": "A specific drift report naming exact phrases or choices that don't match your system — or plain confirmation that it holds up, with no manufactured criticism.",
+      "refinementPrompts": ["For the drift you flagged, give me a specific rewrite that fixes it without changing the overall message."],
+      "qualityChecklist": ["Every flagged issue names an exact phrase or element, not a vague impression", "It doesn't invent a problem just to have feedback to give"]
+    },
+    {
+      "id": "m5-social-profile-branding",
+      "tier": "library",
+      "category": "Brand Assets",
+      "title": "Social Profile Branding",
+      "objective": "Apply your identity consistently across a specific social platform's profile elements (bio, profile photo crop, link-in-bio page).",
+      "requiredInputs": ["Your One-Liner", "Your Signature", "The platform"],
+      "template": "You are a brand consistency advisor. My One-Liner: [paste it here]. My Signature: [paste it here]. Platform: [name it]. Walk through this platform's actual profile elements (bio, profile photo guidance, pinned content, link-in-bio page if relevant) and tell me specifically how each one should reflect my brand, referencing my One-Liner and Signature directly rather than giving generic 'optimize your profile' advice.",
+      "expectedOutput": "Element-by-element guidance for the named platform's actual profile fields, each tied to your One-Liner or Signature.",
+      "refinementPrompts": ["Which one element, if I only fix one thing today, would make the biggest difference to how recognisable my profile is?"],
+      "qualityChecklist": ["Guidance names the platform's real elements, not generic social media advice", "Each recommendation ties back to your One-Liner or Signature"]
+    },
+    {
+      "id": "m5-social-post-design-concepts",
+      "tier": "library",
+      "category": "Brand Assets",
+      "title": "Social Post Design Concepts",
+      "objective": "Get recurring post-design concepts (layout patterns, not one-off designs) that make your content recognisable in a feed.",
+      "requiredInputs": ["Your colour palette", "Your typography", "Your Signature"],
+      "template": "You are a content designer. My colour palette: [paste it here]. My typography: [paste it here]. My Signature: [paste it here]. Describe two recurring post-layout concepts (not one-off designs) that would make my posts recognisable while scrolling, without a visible logo — tie each one to my Signature and describe how colour and typography would be used consistently across every post that follows it.",
+      "expectedOutput": "Two reusable layout concepts, each tied to your Signature, described specifically enough that a designer could repeat them across dozens of posts.",
+      "refinementPrompts": ["Describe how concept one would adapt for a single-image post versus a multi-slide carousel, keeping it recognisably the same system."],
+      "qualityChecklist": ["Concepts are reusable patterns, not one-off ideas", "Each ties explicitly to your Signature, not just your palette"]
+    },
+    {
+      "id": "m5-product-cover-direction",
+      "tier": "library",
+      "category": "Brand Assets",
+      "title": "Product Cover Direction",
+      "objective": "Get cover-art direction for a specific digital product, consistent with your overall identity.",
+      "requiredInputs": ["The product name/type", "Your colour palette and typography", "Your logo type"],
+      "template": "You are a brand designer. My product: [name and briefly describe it]. My colour palette: [paste it here]. My typography: [paste it here]. My logo type: [paste it here]. Recommend a cover direction for this specific product — composition, how the logo should be placed, how much of the palette to use versus a simpler treatment — explaining why this product's cover should look consistent with, but not identical to, my other covers.",
+      "expectedOutput": "A specific cover-art direction for the named product, consistent with but distinct from your other covers.",
+      "refinementPrompts": ["How should this cover's direction change if I later make a second product in the same series?"],
+      "qualityChecklist": ["Direction is specific to the named product, not generic cover advice", "It explains how this stays consistent with your broader identity"]
+    },
+    {
+      "id": "m5-digital-product-visual-direction",
+      "tier": "library",
+      "category": "Brand Assets",
+      "title": "Digital Product Visual Direction",
+      "objective": "Extend your identity into the inside pages of a digital product (slide decks, PDF guides, worksheet pages), not just the cover.",
+      "requiredInputs": ["Your colour palette", "Your typography", "Your logo type"],
+      "template": "You are a brand designer. My colour palette: [paste it here]. My typography: [paste it here]. My logo type: [paste it here]. My product format: [e.g. 'a PDF guide', 'a slide deck']. Recommend a consistent interior visual system for this format — heading treatment, body text treatment, how often (if at all) the logo should repeat inside, and one recurring visual device that ties pages together — so it reads as one coherent product, not a cover with unrelated pages behind it.",
+      "expectedOutput": "A specific interior visual system for your stated product format, tying pages together consistently.",
+      "refinementPrompts": ["Give me the exact heading and body text treatment as if specifying it to a template designer (sizes, weights, spacing in relative terms)."],
+      "qualityChecklist": ["Recommendations are specific to the stated format, not generic design tips", "It addresses how pages relate to each other, not just one page in isolation"]
+    },
+    {
+      "id": "m5-branded-template-guidance",
+      "tier": "library",
+      "category": "Brand Assets",
+      "title": "Branded Template Guidance",
+      "objective": "Get guidance for building reusable content templates (a caption template, an email template) that encode your voice and visual system so you don't start from scratch each time.",
+      "requiredInputs": ["Your Voice Rules", "Your visual identity (colour/typography)"],
+      "template": "You are a brand systems consultant. My Voice Rules: [paste them here]. My visual identity (colour/typography): [paste it here]. I want a reusable template for: [name the content type — e.g. 'a weekly email', 'a product launch caption']. Design the structure of this template — the fixed parts that stay the same every time and the variable parts I fill in — so that following it automatically keeps me on-voice and on-brand without re-deciding those things each time.",
+      "expectedOutput": "A template structure with clearly marked fixed and variable parts, built to keep you on-brand automatically.",
+      "refinementPrompts": ["Fill in one complete example using this template, for a plausible topic, so I can see it in action."],
+      "qualityChecklist": ["The fixed parts actually encode your Voice Rules, not just formatting", "The template would genuinely save re-deciding voice/visual choices each time"]
+    },
+    {
+      "id": "m5-cross-platform-consistency-check",
+      "tier": "library",
+      "category": "Brand Assets",
+      "title": "Cross-Platform Consistency Check",
+      "objective": "Spot-check consistency across several platforms at once, the way the Consistency Grid does manually, but with specific content.",
+      "requiredInputs": ["Your Consistency Grid", "A short description of what currently appears on each platform"],
+      "template": "You are a brand consistency auditor. My Consistency Grid (what should be consistent, by touchpoint): [paste it here]. Here's what currently appears on each platform: [briefly describe your current profiles/content per platform]. Compare them against each other and against my Consistency Grid, and name the specific places where one platform doesn't match the others — not a general consistency score, but exact mismatches I could go fix today.",
+      "expectedOutput": "A specific list of cross-platform mismatches you can act on immediately, not a vague consistency score.",
+      "refinementPrompts": ["Of the mismatches you found, which one would a new visitor notice fastest if they checked two of my platforms back to back?"],
+      "qualityChecklist": ["Every mismatch names the specific platforms and the specific thing that differs", "It checks against your actual Consistency Grid, not generic brand consistency advice"]
+    }
+  ]
+}

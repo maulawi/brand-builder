@@ -1,0 +1,94 @@
+{
+  "id": "m1",
+  "number": 1,
+  "code": "01",
+  "title": "Carry Your Strategy Into a Brand",
+  "framework": "The Brand Anchor",
+  "lessons": [
+    {
+      "id": "1.1",
+      "title": "What a brand actually is (and isn't)",
+      "readTime": "6 min read",
+      "status": "approved",
+      "body": [
+        "Offer Engineering decided what you're selling, to whom, and why they should buy it instead of the alternatives. None of that is being redone here. A brand is a different layer entirely: it's how that already-settled offer gets recognised, trusted and remembered by someone meeting it for the first time — not the offer itself, and not a decoration on top of it.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What a brand has to actually do</div>A brand earns its keep by doing three concrete things for a stranger: help them recognise your content as yours before they read a word of it, help them trust that what you say is consistent with what you deliver, and help them remember you specifically, not just \"a creator who does this kind of thing.\" If a piece of content, a page or a product doesn't move at least one of those three forward, it isn't really doing brand work — however polished it looks.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What a brand is not</div>A logo is not a brand — it's one small, visible expression of one. A mission statement is not a brand — inspirational language that could belong to almost any business signals nothing specific to a stranger. A colour palette is not a brand. Consistency across all of these without a real foundation underneath them isn't a brand either — it's just a consistent set of decorations, and a stranger can tell the difference even if they can't name it.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Brand work is downstream of strategy, not a replacement for it</div>This is the single most common mistake beginners make with branding: starting from a colour or a vibe instead of from the actual offer. A brand built before the strategy is settled has nothing real to express — it's decoration looking for a reason. That's why this module opens by re-grounding you in your own Offer Engineering outputs (Lesson 1.2) before asking you to make a single expressive decision. Everything from here on — personality, voice, messaging, visual direction — is downstream of what you already proved works.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A hypothetical worked example</div>Continuing the hypothetical small business owner used throughout DigitalOps: their offer is a content-planning system, their target customer is small business owners who run out of ideas and start from a blank page every week, and their UVP is a complete planning process, not just templates. A brand built on top of that offer isn't \"a nice-looking Instagram grid\" — it's a consistent way of sounding and looking that makes a stranger scrolling past think \"this is for me\" and, a week later, recognise the next post as the same source without checking the handle."
+      ],
+      "insight": "A brand's job is to make a stranger recognise, trust and remember you — everything else is decoration until it does one of those three things."
+    },
+    {
+      "id": "1.2",
+      "title": "Import your offer foundation",
+      "readTime": "5 min read",
+      "status": "approved",
+      "body": [
+        "Every exercise in Brand Builder opens with your own Offer Engineering outputs already in the room — that's the whole point of building this second, not from zero. This lesson is where that actually happens: a short, manual intake, copied straight from your Offer Blueprint, that every later module will read from.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why re-enter it instead of just remembering it</div>Writing it down here, in Brand Builder's own words, does two things a vague memory of your offer can't. First, it forces precision — \"I remember my positioning was something like...\" is not the same as the actual sentence. Second, it gives every later exercise something concrete to check itself against: your Brand Anchor's Promise, your Message Ladder's Differentiated Proof, your Quick-Reference Card — all of it traces back to what you enter here, so getting it right now saves rework later.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What to bring, and where it came from</div>Seven fields, each pulled from a specific Offer Engineering Blueprint deliverable: your <strong>target customer</strong> (Target Customer Profile), <strong>main problem</strong> (Problem Inventory), <strong>desired outcome</strong> (Outcome Statement), <strong>promise</strong> (Promise), <strong>Unique Value Proposition</strong> and <strong>differentiation</strong> (Offer Name & Positioning Statement), and your <strong>positioning statement</strong> (also Offer Name & Positioning Statement). If you genuinely don't have one of these yet — an older offer, built before you had a UVP framework, say — write your best current answer rather than leaving it blank; a thin answer here is still more useful than a gap every later exercise trips over.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A quick consistency check, before you move on</div>Read your seven answers back as one paragraph. Does the promise actually follow from the problem? Does the UVP actually describe something the positioning statement also implies? A hypothetical small business owner whose problem is \"running out of content ideas\" but whose promise talks about \"growing your following\" has a mismatch worth resolving now — not because the numbers are wrong, but because a brand built on the promise side of that gap would be arguing for a different offer than the one actually being sold.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What this isn't</div>This is not a chance to rewrite your offer. If something feels off, that's useful information — take it back to Offer Engineering rather than quietly patching it here. Brand Builder's job starts once the offer is settled, not before."
+      ],
+      "insight": "A brand built on a vague memory of your offer drifts; one built on the actual words stays honest."
+    },
+    {
+      "id": "1.3",
+      "title": "Find your Brand Anchor",
+      "readTime": "7 min read",
+      "status": "approved",
+      "body": [
+        "With your offer foundation in the room, this lesson builds the thing every later module checks itself against: your Brand Anchor. Four fields, each a fixed role rather than an open-ended prompt — the discipline is in keeping them distinct, not in writing more.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">The four roles</div><strong>Belief</strong> — the one conviction behind why this exists. Not an inspirational-poster sentence that could belong to any business; a specific point of view that actually constrains what you'd say and wouldn't say. <strong>Audience Truth</strong> — who they are and what they're actually dealing with, pulled straight from your Module 1.2 intake, not re-written from scratch. <strong>Promise</strong> — what the brand commits to, pulled from your offer's own Promise and UVP. <strong>Signature</strong> — one distinct, ownable trait — behavioural, verbal or visual — that will make this brand recognisable. This is the one field Offer Engineering never asked for, because it's not about the offer; it's about the brand's own fingerprint.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why Audience Truth and Promise start pre-filled</div>The exercise for this lesson pre-fills Audience Truth from your intake's target customer and problem, and Promise from your intake's promise and UVP — editable, not locked. The framework's own rule is \"pulled from, not re-derived\": if you find yourself writing something unrelated to what you entered in Lesson 1.2, stop and check whether the Anchor is drifting from the strategy underneath it, which is exactly the mistake Lesson 1.1 warned about.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Finding a real Signature</div>A Signature isn't a slogan and it isn't a logo — it's a trait specific enough that someone could point to it and say \"that's them.\" A hypothetical content-planning creator's Signature might be \"every recommendation comes with the exact template to execute it, not just the advice\" — a trait that shows up in how they teach, not just what they say. Weak Signatures sound like \"we care about quality\" (true of almost everyone, so it identifies no one); strong ones name something specific enough that its absence would be noticeable.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">The brand-name checkpoint</div>Many solo creators already sell under their own name or an existing handle — this isn't a full naming exercise, just a short check: does the name you already use still fit what you've just written down? A hypothetical creator named \"ContentFlow\" whose Anchor turns out to centre on calm, unhurried planning might note that the name still fits; one whose Anchor turns out to centre on speed and urgency might note a slight mismatch worth living with for now, or revisiting later — not something to solve mid-exercise.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A complete worked example — hypothetical</div>Continuing the hypothetical small business owner's content-planning offer: <strong>Belief</strong> — \"Consistent content shouldn't require constant inspiration; it should require a system.\" <strong>Audience Truth</strong> — \"Small business owners who post on social media but have no system for deciding what to post, and run out of ideas most weeks.\" <strong>Promise</strong> — \"A complete planning system, not just templates — you'll receive a structured 7-day workflow.\" <strong>Signature</strong> — \"Every lesson ends with the exact template to execute it, not just the advice.\" Brand name: \"The 7-Day Content Planner\" — still fits; the Anchor's emphasis on structure and completeness matches what the name already implies."
+      ],
+      "insight": "Your Brand Anchor isn't four separate ideas — it's one argument, checked against your actual offer, not your taste."
+    }
+  ],
+  "exercise": {
+    "type": "brand-foundation",
+    "instructions": "Copy in your offer foundation from your Offer Blueprint, then build your Brand Anchor."
+  },
+  "prompts": [
+    {
+      "id": "m1-brand-foundation-development",
+      "tier": "core",
+      "category": "Brand Strategy",
+      "title": "Brand Foundation Development",
+      "objective": "Turn your filled Brand Anchor and offer intake into a one-paragraph Brand Foundation summary, with contradictions against your offer flagged rather than smoothed over.",
+      "requiredInputs": ["Your Module 1.2 offer intake", "Your completed Brand Anchor (Belief, Audience Truth, Promise, Signature)"],
+      "template": "You are a brand strategist helping a solo creator turn a settled offer into a written Brand Foundation. My offer foundation: {{m1.intakeSummary}}. My Brand Anchor — Belief: {{m1.belief}}. Audience Truth: {{m1.audienceTruth}}. Promise: {{m1.brandPromise}}. Signature: {{m1.signature}}. My current brand name: {{m1.brandName}}. If any of these is missing or too thin, ask me for it before writing anything. Using only what I've told you — never inventing a belief, audience detail or signature I haven't stated — write one tight paragraph that states who this brand is for, what it believes, what it promises, and what makes it recognisable. Then explicitly flag any place where the Anchor seems to contradict the offer foundation (for example, a Promise that doesn't follow from the stated problem), rather than smoothing the mismatch over.",
+      "expectedOutput": "One paragraph you could hand to a collaborator as your Brand Foundation, plus a short list of any contradictions it found between your Anchor and your offer intake.",
+      "refinementPrompts": ["Rewrite that paragraph in one sentence I could say out loud to a stranger.", "If you flagged a contradiction, give me two ways I could resolve it without changing my offer."],
+      "qualityChecklist": ["Every sentence traces back to something you actually entered — nothing invented", "Any contradiction it raised is specific, not generic", "The paragraph could be read aloud and still make sense"]
+    },
+    {
+      "id": "m1-brand-identity-refinement",
+      "tier": "library",
+      "category": "Brand Strategy",
+      "title": "Brand Identity Refinement",
+      "objective": "Pressure-test a drafted Brand Foundation paragraph for genericness before you commit to it.",
+      "requiredInputs": ["Your Brand Foundation paragraph (from the Core Prompt above, or your own draft)"],
+      "template": "You are a brand strategist. Here is my draft Brand Foundation: [paste your Brand Foundation paragraph here]. Tell me plainly which sentences in it could be copy-pasted into a competitor's brand without anyone noticing, and which sentences are genuinely specific to my business. For every sentence you flag as generic, suggest a more specific replacement that only makes sense given my actual offer and audience — ask me for any detail you're missing rather than inventing one.",
+      "expectedOutput": "A sentence-by-sentence verdict on your draft, plus specific rewrites for anything too generic to be yours alone.",
+      "refinementPrompts": ["Now do the same pass, but only looking for words that could apply to literally any business ('quality', 'passionate', 'innovative')."],
+      "qualityChecklist": ["Every flagged sentence gets an actual suggested replacement, not just a critique", "The AI asked for missing detail instead of guessing"]
+    },
+    {
+      "id": "m1-brand-name-evaluation",
+      "tier": "library",
+      "category": "Brand Strategy",
+      "title": "Brand Name Evaluation",
+      "objective": "Check whether your existing name still fits the Brand Anchor you just wrote, without turning this into a full renaming exercise.",
+      "requiredInputs": ["Your current brand name", "Your completed Brand Anchor"],
+      "template": "You are a naming consultant doing a fit-check, not a renaming exercise. My current brand name: [your brand name]. My Brand Anchor — Belief: [paste Belief], Audience Truth: [paste Audience Truth], Promise: [paste Promise], Signature: [paste Signature]. Tell me honestly whether the name still fits what I've just written down, and why or why not — specifically, what does the name currently imply, and does that match or clash with the Anchor? If it's a reasonable fit, say so plainly rather than inventing a problem to solve. If there's a real mismatch, suggest one small adjustment (a tagline pairing, a subtitle) rather than a full rename, unless the mismatch is severe enough that you should say so.",
+      "expectedOutput": "A plain fit/no-fit verdict with reasoning, and — only if genuinely needed — one small adjustment rather than a rename.",
+      "refinementPrompts": ["If you found a mismatch, show me how the name would read paired with a short tagline that closes the gap."],
+      "qualityChecklist": ["The verdict doesn't manufacture a problem where there isn't one", "Any suggested fix is proportional to the actual mismatch found"]
+    }
+  ]
+}

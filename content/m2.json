@@ -1,0 +1,117 @@
+{
+  "id": "m2",
+  "number": 2,
+  "code": "02",
+  "title": "Brand Personality & Voice",
+  "framework": "The Signal Map",
+  "lessons": [
+    {
+      "id": "2.1",
+      "title": "Personality isn't decoration",
+      "readTime": "6 min read",
+      "status": "approved",
+      "body": [
+        "Personality is the first genuinely expressive decision in Brand Builder — which makes it the easiest place to quietly stop working from strategy and start working from taste. This lesson is about resisting that, before Lesson 2.2 hands you the tool for doing it properly.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What personality actually has to accomplish</div>A brand's personality isn't there to be liked in the abstract — it's there to make the brand feel consistent and recognisable in text alone, even with no logo visible. A customer who reads three posts and a product description should come away with the same sense of \"who's talking,\" without ever seeing a visual. If your personality choice doesn't make your writing faster and more consistent to produce, it isn't doing its job — it's just a vibe you've decided to like.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">The question that actually matters</div>Not \"what personality do I want to have\" but \"what personality will this specific Audience Truth actually respond to.\" Your Module 1 Audience Truth already told you who they are and what they're dealing with — the Signal Map in Lesson 2.2 asks you to set every slider with that answer in front of you, not with your own taste as the tiebreaker.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Common mistakes</div>Copying a competitor's tone because it performed well for them — a tone that worked for their audience isn't evidence it'll work for yours. Picking \"friendly and professional\" because it sounds safe — it describes almost every brand that's ever existed, which means it describes none of them specifically. Changing voice by platform with no underlying logic — casual on Threads, formal on the sales page, with nothing connecting the two except that they're both \"you.\" Each of these produces content that's individually fine and collectively forgettable.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What this lesson sets up</div>Lesson 2.2 turns your Audience Truth into a personality position using four opposing trait-pairs — not a label picked from a list, a position you set. Lesson 2.3 turns that position into Voice Rules concrete enough to actually check your own writing against. Personality, in other words, is a means to an end: faster, more consistent writing, not a trait to admire on its own."
+      ],
+      "insight": "If a personality choice doesn't make your writing faster and more consistent, it's a preference, not a strategy."
+    },
+    {
+      "id": "2.2",
+      "title": "Map your Signal Map",
+      "readTime": "6 min read",
+      "status": "approved",
+      "body": [
+        "The Signal Map is four opposing trait-pair sliders, set against your Audience Truth — not a quiz that sorts you into one of a handful of pre-written personality types. The difference matters: a label and a paragraph of description tell you what you are; a position on four specific dimensions tells you what to actually write differently.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">The four dimensions</div><strong>Formal ↔ Casual</strong> — how much structure and convention your writing follows. <strong>Bold ↔ Gentle</strong> — how directly you state an opinion or a claim. <strong>Playful ↔ Serious</strong> — how much humour and lightness the writing carries. <strong>Expert ↔ Relatable</strong> — whether you write as the authority explaining, or as someone who's been where they are. None of these is inherently better — a Formal, Serious, Expert position is exactly right for some audiences and exactly wrong for others.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Setting each slider against the audience, not yourself</div>For each dimension, ask what your Audience Truth would actually respond to — not what you personally enjoy writing in. A hypothetical audience of small business owners who are already overwhelmed and short on time tends to respond better to Casual-leaning (less effort to parse), Bold-leaning (tell them plainly what to do), and Relatable-leaning (someone who's been in their position) than the opposite ends — but that's a reasoned guess from the Audience Truth, not a universal rule. Your own audience's actual position might land somewhere else entirely.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A worked example — hypothetical</div>The hypothetical small business owner's Audience Truth: \"small business owners who post on social media but have no system for deciding what to post, and run out of ideas most weeks.\" A plausible Signal Map: Formal↔Casual leaning Casual (they're tired, not in a boardroom), Bold↔Gentle leaning Bold (they want to be told what to do, not offered options), Playful↔Serious landing closer to the middle (light enough to not feel like homework, serious enough to feel credible), Expert↔Relatable leaning Relatable (someone who's also run a small business, not a marketing agency talking down to them).",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why four, and why sliders instead of a label</div>A single label (\"playful\") collapses four separate decisions into one word and loses the nuance that actually matters for writing — you can be playful and still formal in structure, bold and still relatable. Four independent positions is enough detail to write from without becoming an elaborate personality questionnaire nobody will revisit."
+      ],
+      "insight": "Your Signal Map position is a read of your audience, not a description of your own personality."
+    },
+    {
+      "id": "2.3",
+      "title": "Turn personality into Voice Rules",
+      "readTime": "5 min read",
+      "status": "approved",
+      "body": [
+        "A personality position on four sliders is still abstract — useful for thinking, useless for actually checking a sentence you just wrote. This lesson closes that gap: the Voice Rules Card translates your Signal Map into rules specific enough to audit real writing against.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">The five rules</div><strong>Vocabulary to use</strong> — words and phrases that fit this signal profile; specific enough that you could point to one in a sentence. <strong>Vocabulary to avoid</strong> — jargon, hedging or anything that fights the profile you just set. <strong>Sentence length and rhythm</strong> — short and direct, or longer and conversational. <strong>Humour level</strong> — none, light, or frequent; vague answers like \"a bit funny sometimes\" aren't checkable, so push for something you could actually apply. <strong>How you address the reader</strong> — second person (\"you\"), first person plural (\"we\"), or something else, and consistently.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Deriving rules from positions, not inventing them separately</div>Each rule should trace back to a specific slider. A Bold-leaning position suggests \"avoid hedging language — no 'might,' 'could,' 'maybe consider'\" as a concrete vocabulary-to-avoid rule. A Relatable-leaning position suggests first person plural or direct second person over third-person authority-voice (\"users should...\"). If a rule doesn't trace back to a slider you actually set, it's probably a preference that slipped in unchecked.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A worked example — hypothetical</div>From the hypothetical Casual / Bold / Relatable profile in Lesson 2.2: <strong>Use</strong> — plain, specific verbs (\"plan,\" \"post,\" \"finish\"), direct address (\"you\"). <strong>Avoid</strong> — hedging (\"might,\" \"could try\"), agency jargon (\"content strategy,\" \"brand voice architecture\" — ironically). <strong>Sentence style</strong> — short, mostly one idea per sentence. <strong>Humour</strong> — light, mostly in asides, never in the actual instructions. <strong>Address</strong> — second person throughout, never \"users\" or \"customers.\"",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Testing it against your own words</div>The Voice Rule Generator AI prompt (Module 2's Core Prompt) asks for a real sentence you've already written, not a hypothetical one — then returns three rewrites in the new voice, so you're comparing against something you actually said, not an abstract description of a tone. If none of the three rewrites sound like something you'd actually say out loud, the rules are probably off, not the rewrites."
+      ],
+      "insight": "A Voice Rules Card is only useful if you could hand it to someone else and have them write a sentence that sounds like you."
+    }
+  ],
+  "exercise": {
+    "type": "signal-map",
+    "instructions": "Set your four Signal Map sliders against your Audience Truth, then write your Voice Rules Card."
+  },
+  "prompts": [
+    {
+      "id": "m2-brand-personality-development",
+      "tier": "library",
+      "category": "Brand Voice",
+      "title": "Brand Personality Development",
+      "objective": "Think through your brand's personality in words before locking in Signal Map slider positions.",
+      "requiredInputs": ["Your Module 1 Audience Truth"],
+      "template": "You are a brand voice strategist. My audience: [paste your Audience Truth here]. Based only on what this audience actually needs from a brand like mine — not generic advice — describe three personality directions I could take, each as a short paragraph, and for each one state whether it would read as more formal or casual, bold or gentle, playful or serious, and expert or relatable. Don't recommend one over the others yet; just lay out real options so I can set my own Signal Map sliders with reasons, not guesses.",
+      "expectedOutput": "Three distinct personality directions, each mapped roughly onto the four Signal Map trait pairs, so you can set your sliders with reasoning instead of intuition.",
+      "refinementPrompts": ["Of the three, which one would least surprise my audience if they met it for the first time, and why?"],
+      "qualityChecklist": ["Each direction is tied to the audience you gave it, not generic", "All four trait pairs are addressed for each direction"]
+    },
+    {
+      "id": "m2-brand-voice-tone-creation",
+      "tier": "core",
+      "category": "Brand Voice",
+      "title": "Brand Voice & Tone Creation",
+      "objective": "Turn your Signal Map result into a concrete Voice Rules Card, tested against real writing samples rather than left abstract.",
+      "requiredInputs": ["Your completed Signal Map sliders", "1–2 real samples of your own writing (a caption, an email, a post)"],
+      "template": "You are a brand voice strategist. My Signal Map: {{m2.signalSummary}}. Here are 1–2 samples of my own writing, to check against: [paste your writing sample(s) here]. If I haven't pasted a sample, ask me for one before continuing — a Voice Rules Card without a real sample to test it against is just theory. Using only my Signal Map position, write a Voice Rules Card with five parts: vocabulary to use, vocabulary to avoid, sentence length and rhythm, humour level, and first-person vs. second-person address. Then take one generic, voiceless sentence (you choose one relevant to my content) and rewrite it three ways in this new voice, so I can compare the rules against something concrete.",
+      "expectedOutput": "A five-part Voice Rules Card plus three rewrites of one generic line, so you're comparing against real sentences, not an abstract description.",
+      "refinementPrompts": ["Now rewrite one of my own pasted samples using the new Voice Rules, so I can compare it directly to what I actually wrote.", "Which of the five rules would be hardest for me to keep consistent, and why?"],
+      "qualityChecklist": ["The Voice Rules Card has all five parts, each concrete enough to check a sentence against", "The three rewrites actually sound different from each other, not just reworded the same way", "Nothing in the rules contradicts your Signal Map position"]
+    },
+    {
+      "id": "m2-vocabulary-writing-style-guidelines",
+      "tier": "library",
+      "category": "Brand Voice",
+      "title": "Vocabulary & Writing-Style Guidelines",
+      "objective": "Expand your Voice Rules Card into a longer reference list of specific words and phrasing patterns to use and avoid.",
+      "requiredInputs": ["Your Voice Rules Card (use/avoid/sentence style/humour/address)"],
+      "template": "You are a brand voice strategist. My Voice Rules Card: [paste your Voice Rules Card here]. Expand this into two lists: fifteen words or phrases that fit my voice, and fifteen words or phrases that would clash with it — drawing only from the rules I've given you, not generic 'good writing' advice. For each clashing phrase, note what it signals instead (e.g. 'overly corporate', 'apologetic', 'try-hard casual') so I understand why it's wrong for me specifically.",
+      "expectedOutput": "Two fifteen-item vocabulary lists (fit / clash) you can keep open while writing, each clash item explained in one short phrase.",
+      "refinementPrompts": ["Now do the same exercise for punctuation and formatting habits instead of vocabulary (emoji use, exclamation points, sentence fragments)."],
+      "qualityChecklist": ["Every item traces back to a rule you actually set, not generic style advice", "Clash items explain why, not just that they clash"]
+    },
+    {
+      "id": "m2-content-rewriting-in-brand-voice",
+      "tier": "library",
+      "category": "Brand Voice",
+      "title": "Content Rewriting in Brand Voice",
+      "objective": "Rewrite an existing piece of content — written before your Voice Rules existed — into your new voice.",
+      "requiredInputs": ["Your Voice Rules Card", "The piece of content to rewrite"],
+      "template": "You are a brand voice editor. My Voice Rules Card: [paste it here]. Here's a piece of content I wrote before I had these rules: [paste your content here]. Rewrite it to match my Voice Rules exactly, and then list every specific change you made and which rule justified it — so I can learn the pattern, not just receive a finished rewrite.",
+      "expectedOutput": "A rewritten version of your content plus a change log mapping each edit to a specific Voice Rule, so the next one you write needs less editing.",
+      "refinementPrompts": ["Which single change made the biggest difference to how this reads? Do just that one again on a different piece I give you."],
+      "qualityChecklist": ["Every listed change names the specific rule behind it", "The rewrite doesn't introduce anything the Voice Rules didn't ask for"]
+    },
+    {
+      "id": "m2-examples-of-brand-communication",
+      "tier": "library",
+      "category": "Brand Voice",
+      "title": "Examples of Brand Communication",
+      "objective": "Generate a small set of ready-to-adapt example posts, captions or emails in your voice, to use as a reference when writing cold.",
+      "requiredInputs": ["Your Voice Rules Card", "The type of content you want examples of (caption, email subject, etc.)"],
+      "template": "You are a brand voice strategist. My Voice Rules Card: [paste it here]. Write five short example pieces of [the type of content you want — e.g. 'Instagram captions', 'email subject lines'] that follow these rules exactly, each about a different plausible topic for my content. After each one, name the specific rule it's demonstrating most clearly, so these work as teaching examples, not just finished copy to reuse as-is.",
+      "expectedOutput": "Five voice-consistent examples, each tagged with the rule it best demonstrates — a quick reference for writing cold.",
+      "refinementPrompts": ["Take the example I liked best and give me three more variations on the same topic, in the same voice."],
+      "qualityChecklist": ["All five examples are consistent with each other's voice, not just individually plausible", "Each is tagged with a real rule from your card"]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "m3",
+  "number": 3,
+  "code": "03",
+  "title": "Brand Messaging Architecture",
+  "framework": "The Message Ladder",
+  "lessons": [
+    {
+      "id": "3.1",
+      "title": "Why most messaging fails",
+      "readTime": "5 min read",
+      "status": "approved",
+      "body": [
+        "You now know how your brand sounds. This module decides what it actually says — a bio, a sales page headline, a one-liner you can repeat in a DM without thinking — compressed from real strategic inputs instead of written cold.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">The two failure modes</div>Most weak messaging fails one of two ways. The first is <strong>generic claims with nothing underneath them</strong> — \"the best way to grow your business,\" \"transform your content strategy\" — sentences that could sit on almost any sales page in the category and therefore convince no one in particular. The second is <strong>restating the offer instead of making a case for it</strong> — \"a 7-day content planning system\" describes what's included, but says nothing about why someone who's tried other planners should believe this one will actually work for them.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Where strong messaging actually comes from</div>Not from writing harder. From compression — taking something true and specific you already know (your Belief, your Promise, your actual differentiation, the exact words your audience uses) and finding the shortest sentence that still carries it. A one-liner that was compressed from real inputs survives being picked apart (\"what do you mean by that?\" has a real answer); a one-liner that was written cold usually doesn't.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Borrowing your audience's own words</div>One specific, high-leverage move: use the exact words your target customer already uses to describe their problem, not marketing language for the same idea. If your Offer Engineering Problem Inventory captured a real customer saying \"I run out of ideas every week,\" that phrase — or something close to it — belongs in your messaging more than a tidier paraphrase like \"content ideation challenges.\" The rougher, more specific phrase is usually the one that makes someone feel seen.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What this module builds</div>Lesson 3.2 builds your Message Ladder — five rungs, each built only from the one below it, so a weak rung is visible and fixable before it reaches the top. Lesson 3.3 compresses the finished ladder into a one-liner, and covers the claims to avoid once you're writing something that will actually be read by strangers."
+      ],
+      "insight": "Strong messaging is compressed from real inputs, not written cold — if you can't explain what a line means, it isn't ready."
+    },
+    {
+      "id": "3.2",
+      "title": "Build your Message Ladder",
+      "readTime": "6 min read",
+      "status": "approved",
+      "body": [
+        "The Message Ladder is a dependency chain, not five independent fields — each rung is only allowed to say what the rung below it actually supports. Built bottom-up, a weak link shows up immediately instead of hiding inside a polished-sounding top line.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">The five rungs, bottom to top</div><strong>Belief</strong> — pulled from your Brand Anchor; the conviction underneath everything else. <strong>Promise</strong> — pulled from your offer's own Promise and UVP; what you're actually committing to. <strong>Differentiated Proof</strong> — pulled from your differentiation; the specific, meaningful reason this beats the alternatives. <strong>Audience Language</strong> — the exact words your customer uses, from your Offer Engineering Problem Inventory — not your paraphrase of them. <strong>The One-Liner</strong> — built in Lesson 3.3, and only allowed to say what the four rungs beneath it already establish.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why bottom-up, specifically</div>Writing the One-Liner first and working backward to justify it produces messaging that sounds good and means nothing — you're rationalising a line you already liked. Building bottom-up means every claim in the final sentence has a traceable reason underneath it, and if a rung is thin, you'll notice while it's still cheap to fix — at the rung, not after the whole ladder is built on top of it.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A worked example — hypothetical</div>Continuing the hypothetical content-planning offer: <strong>Belief</strong> — \"Consistent content shouldn't require constant inspiration; it should require a system.\" <strong>Promise</strong> — \"A complete planning system, not just templates.\" <strong>Differentiated Proof</strong> — \"Includes the full planning process, not just design files, unlike template-only alternatives.\" <strong>Audience Language</strong> — \"I run out of ideas every week and end up posting whatever, or nothing.\" Each rung is checkable against something real — the Anchor, the offer, the actual differentiation, the actual customer research — not invented fresh for this exercise.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What to do when a rung feels weak</div>Don't push through and compensate with a stronger-sounding rung above it — go back to the source. A thin Differentiated Proof usually means the Offer Engineering differentiation itself was thin, which is worth knowing now rather than discovering it in a one-liner that doesn't survive a skeptical read."
+      ],
+      "insight": "Each rung is only as strong as the one underneath it — build bottom-up so a weak link is visible before it reaches the top."
+    },
+    {
+      "id": "3.3",
+      "title": "Compress it into a one-liner",
+      "readTime": "5 min read",
+      "status": "approved",
+      "body": [
+        "With all four lower rungs in place, this lesson compresses them into the one sentence you'll actually reuse — a bio line, a sales-page headline, an answer to \"so what do you do.\"",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What \"compressed\" actually means</div>The One-Liner isn't a fifth, separately-invented idea — it's the shortest sentence that still carries what the four rungs beneath it establish. If you can point to a phrase in the One-Liner and not trace it back to a specific rung, it's either filler or an unsupported claim, and either way it doesn't belong.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Claims to avoid</div>Five phrases that routinely appear in weak one-liners, and what's wrong with each: <strong>\"the only product of its kind\"</strong> — almost never actually verified, and rarely true. <strong>\"the best on the market\"</strong> — a claim about every competitor, which you haven't actually reviewed. <strong>\"guaranteed to outperform\"</strong> — a guarantee about a comparison you don't control. <strong>\"the fastest method\"</strong> — specific and checkable; don't say it unless you've actually checked it. <strong>\"completely unique\"</strong> — contradicts the whole premise of compression from real inputs; meaningful is the bar, not unprecedented. Each of these invites a skeptical reader to ask \"compared to what, exactly\" — a question your actual ladder should already be able to answer, which is exactly why staying inside what the ladder supports matters.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A worked example — hypothetical</div>From the Lesson 3.2 ladder: <strong>Weak</strong> — \"The best content planning tool for small businesses.\" No audience specificity, no real claim, and \"best\" isn't supported by anything in the ladder. <strong>Strong</strong> — \"For small business owners who run out of content ideas every week, this gives you a complete planning system — not just templates — so you stop starting from a blank page.\" Every clause traces to a rung: the audience language (\"run out of ideas every week\"), the differentiated proof (\"not just templates\"), the promise (\"complete planning system\"), the practical benefit (\"stop starting from a blank page\").",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Drafting more than one option</div>The Message Ladder Compressor AI prompt (Module 3's Core Prompt) drafts three one-liner options from your finished ladder, each phrasing the same supported facts slightly differently — useful because the first phrasing that comes to mind is rarely the clearest, the same discipline Offer Engineering teaches for naming. Compare options against the ladder, not against which one simply sounds nicest."
+      ],
+      "insight": "Your one-liner should communicate a difference your customer cares about and a value your product can actually deliver — nothing more."
+    }
+  ],
+  "exercise": {
+    "type": "message-ladder",
+    "instructions": "Build your Message Ladder bottom-up, then compress it into a one-liner."
+  },
+  "prompts": [
+    {
+      "id": "m3-brand-messaging-development",
+      "tier": "core",
+      "category": "Brand Messaging",
+      "title": "Brand Messaging Development",
+      "objective": "Turn your four filled Message Ladder rungs into three One-Liner options, each flagged if it claims something the rungs beneath it don't support.",
+      "requiredInputs": ["Your completed Message Ladder — Belief, Promise, Differentiated Proof, Audience Language"],
+      "template": "You are a messaging strategist. My Message Ladder — Belief: {{m3.belief}}. Promise: {{m3.promise}}. Differentiated Proof: {{m3.proof}}. Audience Language: {{m3.audienceLanguage}}. If any rung above is missing, ask me for it before drafting anything — a One-Liner built on a missing rung is standing on nothing. Using only these four rungs, draft three One-Liner options a stranger could repeat back after hearing once. None of them may use 'best,' 'only,' 'guaranteed,' or any other claim the four rungs don't actually support — flag it yourself if you notice a draft drifting that way instead of me having to catch it.",
+      "expectedOutput": "Three One-Liner options, each traceable to the four rungs beneath it, with no unsupported superlatives.",
+      "refinementPrompts": ["Of the three, which uses the most of the Audience Language rung word-for-word? Give me two more options that lean on that rung even harder.", "Shorten my favourite option to under twelve words without losing the Promise."],
+      "qualityChecklist": ["Every option is repeatable after one read — not a paragraph", "None contain a claim the four rungs don't support", "At least one option uses real audience language, not marketing language"]
+    },
+    {
+      "id": "m3-tagline-generator",
+      "tier": "library",
+      "category": "Brand Messaging",
+      "title": "Tagline Generator",
+      "objective": "Generate short tagline options (3–6 words) distinct from your full One-Liner, for use where space is tight (a logo lockup, a bio header).",
+      "requiredInputs": ["Your One-Liner", "Your Belief"],
+      "template": "You are a messaging strategist. My One-Liner: [paste it here]. My Belief: [paste it here]. Write ten short taglines (three to six words each) that compress the spirit of my One-Liner for places where a full sentence won't fit — under a logo, in a header. None should repeat my One-Liner verbatim, and none should introduce a claim my One-Liner doesn't already make.",
+      "expectedOutput": "Ten short taglines, genuinely distinct from each other, none making a new claim beyond your One-Liner.",
+      "refinementPrompts": ["Which three of these would still make sense with no other context around them at all? Keep only those and give me five more like them."],
+      "qualityChecklist": ["Each tagline is six words or fewer", "None introduces a new claim your One-Liner doesn't support"]
+    },
+    {
+      "id": "m3-elevator-pitch-creation",
+      "tier": "library",
+      "category": "Brand Messaging",
+      "title": "Elevator Pitch Creation",
+      "objective": "Expand your One-Liner into a 30-second spoken pitch for situations where you get more than one sentence.",
+      "requiredInputs": ["Your One-Liner", "Your Promise", "Your Differentiated Proof"],
+      "template": "You are a messaging strategist. My One-Liner: [paste it here]. My Promise: [paste it here]. My Differentiated Proof: [paste it here]. Write a 30-second spoken elevator pitch (roughly 75–90 words) that starts with my One-Liner, then adds just enough of my Promise and Proof to make a stranger want to ask a follow-up question — not a full sales pitch, just enough to earn the next sentence.",
+      "expectedOutput": "A 75–90 word spoken pitch that opens with your One-Liner and earns a follow-up question rather than closing the conversation.",
+      "refinementPrompts": ["Read that back as if I were saying it out loud at a networking event — does any phrase sound unnatural to actually say? Fix just those."],
+      "qualityChecklist": ["It's short enough to say in 30 seconds without rushing", "It opens with your actual One-Liner, not a rewritten version of it"]
+    },
+    {
+      "id": "m3-social-media-bio-generation",
+      "tier": "library",
+      "category": "Brand Messaging",
+      "title": "Social Media Bio Generation",
+      "objective": "Compress your messaging into platform-ready bio text within real character limits.",
+      "requiredInputs": ["Your One-Liner", "Your Signature", "The platform(s) you need a bio for"],
+      "template": "You are a messaging strategist. My One-Liner: [paste it here]. My Signature: [paste it here]. Write a bio for [name the platform, e.g. Instagram, 150 characters] that fits the platform's real character limit, leads with what I actually do rather than a vague identity label, and works my Signature in if there's room — don't pad it with hashtags or emoji I didn't ask for.",
+      "expectedOutput": "A platform-ready bio that fits the stated character limit and leads with substance, not a vague label.",
+      "refinementPrompts": ["Now write a longer version for a platform with no character limit (a website About page), using the same bones."],
+      "qualityChecklist": ["It actually fits the stated character count", "It says what you do, not just how you feel about what you do"]
+    },
+    {
+      "id": "m3-brand-messaging-variations",
+      "tier": "library",
+      "category": "Brand Messaging",
+      "title": "Brand Messaging Variations",
+      "objective": "Generate several framings of the same One-Liner for different contexts (a cold DM, a sales page headline, a content hook) without changing what it claims.",
+      "requiredInputs": ["Your One-Liner"],
+      "template": "You are a messaging strategist. My One-Liner: [paste it here]. Rewrite it in five different framings — a cold outreach message opener, a sales page headline, a short-form video hook, a podcast guest intro line, and a written bio sentence — each suited to that context's tone and length, but none of them claiming anything beyond what the original One-Liner already claims.",
+      "expectedOutput": "Five context-specific variations of the same underlying claim, none overstating beyond the original.",
+      "refinementPrompts": ["Which of the five would you lead with if you only had one shot at a cold audience, and why?"],
+      "qualityChecklist": ["Each variation fits its stated context's normal length and tone", "None adds a claim the original One-Liner didn't make"]
+    }
+  ]
+}

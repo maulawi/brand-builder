@@ -1,0 +1,153 @@
+{
+  "id": "m4",
+  "number": 4,
+  "code": "04",
+  "title": "Visual Identity Direction",
+  "framework": null,
+  "lessons": [
+    {
+      "id": "4.1",
+      "title": "Visual identity is a decision system, not a logo",
+      "readTime": "6 min read",
+      "status": "approved",
+      "body": [
+        "This module produces a visual identity <strong>brief</strong> — direction and requirements someone else (a designer, a freelancer, an AI image tool) can act on — not finished artwork. Worth saying plainly before anything else: nothing you build here is a rendered logo, a palette file, or a mockup. If you came in expecting one, reset that expectation now rather than at the end of the module.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why a brief, not art</div>A brief is what an architect hands a builder before a single wall goes up — not a replacement for the building, a specification detailed enough that someone else can build the right thing. The output of this module is exactly that: mood, colour direction, typography direction, and logo direction, each with reasoning attached, ready to hand to whoever actually produces the visuals.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What makes a brief usable versus vague</div><strong>Vague:</strong> \"make it feel premium.\" This tells a designer nothing actionable — premium compared to what, expressed how, for whom? <strong>Usable:</strong> \"warm neutrals with one bold accent colour, because the Signal Map's Bold↔Gentle reading leans Bold and the audience is time-pressed and wants to be told what to do, not soothed.\" The difference isn't length — it's that every choice in the usable version has a reason attached that traces back to something you already know about this specific brand.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why most \"AI brand kit\" logos look generic</div>Not because the tools are bad — because they were given adjectives instead of constraints. \"Make me a modern, clean logo for a content planning business\" could describe thousands of unrelated brands equally well. A brief built from your actual Signal Map, your actual Message Ladder, and your actual Brand Anchor gives a tool — or a human designer — something to push against, which is where distinctive results actually come from.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What this module builds</div>Lesson 4.2 derives colour and typography <em>directions</em> — not final hex codes or font files — from your personality and messaging. Lesson 4.3 sets a logo type and a design-requirements checklist. All of it stays a brief throughout; turning the brief into actual pixels is a step you take afterward, with whichever tool or person you choose."
+      ],
+      "insight": "A brief with reasons attached produces distinctive results; adjectives without constraints produce the same generic output everyone else is already getting."
+    },
+    {
+      "id": "4.2",
+      "title": "Translate personality into colour and type",
+      "readTime": "6 min read",
+      "status": "approved",
+      "body": [
+        "Colour and typography directions in this lesson come from logic, not taste — derived from the Signal Map and Message Ladder you already built, the same discipline every other module in Brand Builder has used.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Deriving a colour direction</div>Start from your Signal Map, not a colour wheel. A Bold-leaning, Playful-leaning personality points toward higher contrast and fewer, more confident colours; a Gentle-leaning, Serious-leaning one points toward softer contrast and a narrower, quieter palette. A fast-moving, urgency-driven Promise points toward warmer, higher-energy colours; a calm, considered one points toward cooler or more neutral tones. None of this produces a single correct palette — it narrows the field and gives you a reason for what's in it.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Deriving a typography direction</div>Same logic, different dimension. A Formal-leaning personality points toward more traditional, structured typefaces; a Casual-leaning one allows more informal, rounded, or handwritten-adjacent choices. An Expert-leaning personality can support a more technical or precise typeface; a Relatable-leaning one usually reads better in something warmer and less clinical. A good pairing combines a distinctive display face for headlines with a quiet, highly legible one for body text — two typefaces doing different jobs, not fighting each other.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Two directions, not one, for each</div>The exercise asks for two colour directions and two typography pairings, each with its own rationale — not because you need to use both, but because comparing two reasoned options against each other surfaces which reasoning is actually stronger, the same discipline Offer Engineering uses for naming and messaging. The first direction that comes to mind is rarely the one that survives being compared to a second.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A worked example — hypothetical</div>From the hypothetical Casual / Bold / Relatable Signal Map: <strong>Colour direction 1</strong> — \"warm neutrals (sand, cream) with one confident accent (a warm orange or terracotta) — fits the Bold, time-pressed audience without feeling corporate.\" <strong>Colour direction 2</strong> — \"a single saturated colour against mostly white space — leans into the Bold reading harder, trades some of the warmth for clarity.\" <strong>Typography pairing</strong> — \"a confident, slightly rounded display face for headlines, paired with a plain, highly legible body face — Relatable without feeling unpolished.\""
+      ],
+      "insight": "A colour or typography choice with no personality reason behind it is a preference you'll have to defend forever; one derived from your Signal Map defends itself."
+    },
+    {
+      "id": "4.3",
+      "title": "Set your logo direction",
+      "readTime": "5 min read",
+      "status": "approved",
+      "body": [
+        "The last visual decision in this module isn't a logo — it's a direction and a set of requirements specific enough that whoever actually designs it (you, a freelancer, an AI image tool) knows exactly what they're solving for.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Four logo types</div><strong>Wordmark</strong> — the brand name itself, styled, with no separate symbol. <strong>Lettermark</strong> — initials, styled, for a longer name that needs a compact mark. <strong>Symbol</strong> — an icon that can stand alone once the brand is recognised enough to not need the name attached every time. <strong>Combination</strong> — a symbol plus the wordmark, usable together or apart depending on the space available.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Choosing based on actual usage, not preference</div>The right choice depends on your confirmed brand name (Module 1) and where the logo will actually need to work — a small, round profile picture; a wide banner; a product cover. A longer name (\"Small Business Content Toolkit\") may need a Lettermark or Combination mark to work at profile-picture size, where a full wordmark would be illegible. A short, distinctive name (\"ContentFlow\") can often carry a Wordmark alone, at least early on, before there's enough recognition to support a standalone Symbol.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A real design-requirements checklist</div>Specific enough that a designer — or an AI image tool — can't misread it: the minimum size it must stay legible at, whether it needs to work in reverse colour (light mark on a dark background, or the reverse), what it must never be paired with (a stock photo, a competing accent colour), and which of the two colour directions and typography pairings from Lesson 4.2 it should draw from. A requirements list this specific is what actually produces a usable result — the same principle Lesson 4.1 opened with.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">On image-generation tools</div>Text-based AI tools — ChatGPT, Claude, Gemini — can help you reason through this brief and draft prompts, but none of them render a finished image. This module's AI prompts (Module 4's Core Prompt and its Prompt Library, in Phase 5) produce portable, tool-agnostic prompt text you take to whichever image-capable tool you actually use — the brief itself is what makes that prompt specific instead of generic."
+      ],
+      "insight": "A logo direction is a decision about how the mark will actually be used, not a style preference — the requirements checklist is what makes it buildable."
+    }
+  ],
+  "exercise": {
+    "type": "visual-identity",
+    "instructions": "Set your mood, colour and typography directions, then choose a logo direction and its requirements."
+  },
+  "prompts": [
+    {
+      "id": "m4-logo-direction-selector",
+      "tier": "library",
+      "category": "Logo Design",
+      "title": "Logo Direction Selector",
+      "objective": "Decide which logo type (wordmark, lettermark, symbol, combination) actually fits how your brand name will be used, before generating any concepts.",
+      "requiredInputs": ["Your brand name", "The places it needs to work (profile picture, wide banner, product cover)"],
+      "template": "You are a brand designer advising on logo strategy, not drawing anything. My brand name: [your brand name]. It needs to work in these places: [list where it appears — e.g. square profile picture, wide banner, product cover]. Given only this, recommend which logo type — wordmark, lettermark, symbol, or combination mark — fits best, and explain the trade-off of each option specifically for a solo creator with no design budget, not in general terms. Don't recommend a symbol or combination mark unless you can name a real, non-generic visual concept it could be built around.",
+      "expectedOutput": "A recommended logo type with reasoning specific to where your name actually needs to appear, not generic pros/cons.",
+      "refinementPrompts": ["If I can only realistically commission one version right now, which should it be and why?"],
+      "qualityChecklist": ["The recommendation references the actual places you listed, not generic advice", "Any symbol/combination suggestion names a real concept, not just 'something visual'"]
+    },
+    {
+      "id": "m4-logo-concept-prompts",
+      "tier": "library",
+      "category": "Logo Design",
+      "title": "Logo Concept Prompts",
+      "objective": "Turn your chosen logo direction into portable prompt text you can run in an image-generation tool.",
+      "requiredInputs": ["Your logo type decision", "Your design-requirements checklist"],
+      "template": "You are a creative director writing prompts for an image-generation tool, not generating an image yourself. My logo type: [your logo type]. My requirements: [paste your design-requirements checklist]. My brand personality: [paste your Signal Map summary or describe it]. Write three distinct, detailed image-generation prompts for a [wordmark/lettermark/symbol/combination mark] logo that respects every requirement listed, each describing style, mood and composition precisely enough for an image tool to act on — these are prompts for me to paste elsewhere, not a finished logo.",
+      "expectedOutput": "Three detailed, portable image-generation prompts, each respecting your stated requirements, ready to paste into an image tool.",
+      "refinementPrompts": ["Take the prompt I liked best and give me two variations that change only the colour direction, keeping everything else identical."],
+      "qualityChecklist": ["Each prompt is specific enough that two different people running it would get similar results", "None of them violate a requirement from your checklist"]
+    },
+    {
+      "id": "m4-visual-identity-brief-builder",
+      "tier": "core",
+      "category": "Visual Identity",
+      "title": "Visual Identity Brief Builder",
+      "objective": "The umbrella prompt for this module — turn your personality and messaging into a full visual identity brief: mood, colour and typography directions with reasoning, and logo-direction options.",
+      "requiredInputs": ["Your Signal Map result", "Your One-Liner", "An optional reference note or inspiration you've already written down"],
+      "template": "You are a brand designer writing a creative brief, not producing finished art. My personality (Signal Map): {{m2.signalSummary}}. My messaging (One-Liner): {{m3.oneLiner}}. My notes so far, if any: {{m4.moodNote}}. Using only this, write a visual identity brief with four parts: three mood descriptors with one sentence of reasoning each, two colour direction options with reasoning tying each back to my personality, two typography pairing options with reasoning, and a recommended logo type with a one-sentence justification. Every recommendation must trace back to something in my personality or messaging — if you can't justify a choice from what I've given you, don't include it.",
+      "expectedOutput": "A four-part visual brief — mood, colour, typography, logo direction — where every choice is justified by your actual personality and messaging, not aesthetic preference.",
+      "refinementPrompts": ["Of your two colour direction options, which would clash with a bold/direct personality and which would support it? Be specific.", "Turn your recommended typography pairing into a one-line brief I could hand a designer."],
+      "qualityChecklist": ["Every recommendation has reasoning attached, not just a description", "Nothing is recommended on taste alone — each choice ties back to your personality or messaging", "This reads as a brief, not finished artwork description"]
+    },
+    {
+      "id": "m4-colour-palette-generator",
+      "tier": "library",
+      "category": "Visual Identity",
+      "title": "Colour Palette Generator",
+      "objective": "Turn a chosen colour direction into specific, usable hex codes.",
+      "requiredInputs": ["Your colour direction (from the Visual Identity Brief)", "Your personality summary"],
+      "template": "You are a brand designer. My colour direction: [paste it here]. My personality: [paste your Signal Map summary]. Generate a five-colour palette (one primary, one secondary, two accents, one neutral) with actual hex codes that matches this direction, and explain in one sentence per colour why it fits — not just that it looks nice, but what it signals given my personality.",
+      "expectedOutput": "A five-colour palette with real hex codes, each colour's inclusion justified against your stated personality.",
+      "refinementPrompts": ["Check this palette for accessible contrast between the primary colour and white/black text — flag anything that would fail basic legibility."],
+      "qualityChecklist": ["Every colour has a real hex code, not a vague name like 'warm beige'", "Each colour's justification ties to your personality, not generic colour theory"]
+    },
+    {
+      "id": "m4-typography-pairing-recommendations",
+      "tier": "library",
+      "category": "Visual Identity",
+      "title": "Typography Pairing Recommendations",
+      "objective": "Get specific, available typeface pairing recommendations (heading + body) that match your personality direction.",
+      "requiredInputs": ["Your typography direction notes", "Your personality summary"],
+      "template": "You are a brand designer. My typography direction: [paste it here]. My personality: [paste your Signal Map summary]. Recommend two heading-and-body typeface pairings, naming real, widely available typefaces (Google Fonts or standard system fonts are fine), and explain for each pairing why the specific combination of weights and letterforms fits my personality — not just 'this font looks clean.'",
+      "expectedOutput": "Two named, real typeface pairings (not generic descriptions) with personality-specific reasoning for each.",
+      "refinementPrompts": ["Of the two pairings, which would be easiest to find free, license-safe versions of for actual use?"],
+      "qualityChecklist": ["Both pairings name real, specific typefaces", "Reasoning is tied to your personality, not generic typography advice"]
+    },
+    {
+      "id": "m4-moodboard-creation",
+      "tier": "library",
+      "category": "Visual Identity",
+      "title": "Moodboard Creation",
+      "objective": "Generate a written moodboard description — the concepts and references a visual moodboard would normally show — since this app has no image-generation.",
+      "requiredInputs": ["Your mood descriptors", "Your colour and typography directions"],
+      "template": "You are a brand designer. My mood descriptors: [paste them here]. My colour and typography directions: [paste them here]. Describe a moodboard for this brand in words: five specific visual reference concepts (textures, compositions, real-world objects or scenes — not other brands' logos) that capture this mood, plus how the colour and typography directions would sit alongside them. This is a written description I'll use to brief a designer or search for real reference images, not a generated image.",
+      "expectedOutput": "Five specific, concrete visual reference concepts described in words, tied to your mood and colour/type directions.",
+      "refinementPrompts": ["Turn those five concepts into five search terms I could actually use on a stock photo or reference site."],
+      "qualityChecklist": ["References are concrete and specific, not vague adjectives repeated back", "Nothing references another brand's actual visual identity"]
+    },
+    {
+      "id": "m4-image-generation-prompts-visual-concepts",
+      "tier": "library",
+      "category": "Visual Identity",
+      "title": "Image-Generation Prompts for Visual Concepts",
+      "objective": "Turn your visual direction into portable prompts for generating supporting imagery (not a logo) in an image tool.",
+      "requiredInputs": ["Your mood", "Your colour direction", "The type of image you need (a hero banner, a content background)"],
+      "template": "You are a creative director writing prompts for an image-generation tool. My mood: [paste it here]. My colour direction: [paste it here]. I need an image for: [describe what it's for — e.g. 'a website hero banner']. Write two detailed, portable image-generation prompts that would produce an on-brand supporting image for this use, specifying composition, colour, lighting and style precisely enough for an image tool to act on consistently.",
+      "expectedOutput": "Two detailed, portable prompts for an image-generation tool, specific enough to produce consistent, on-brand results.",
+      "refinementPrompts": ["Adjust both prompts to specify a horizontal 16:9 composition instead of square, keeping everything else the same."],
+      "qualityChecklist": ["Prompts specify composition and style precisely, not just mood words", "Nothing in them conflicts with your stated colour direction"]
+    },
+    {
+      "id": "m4-brand-imagery-graphic-direction",
+      "tier": "library",
+      "category": "Visual Identity",
+      "title": "Brand Imagery & Graphic Direction",
+      "objective": "Set direction for supporting graphic elements (icons, dividers, patterns) beyond the logo and primary palette.",
+      "requiredInputs": ["Your logo type", "Your colour palette", "Your personality summary"],
+      "template": "You are a brand designer. My logo type: [paste it here]. My colour palette: [paste it here]. My personality: [paste your Signal Map summary]. Recommend a direction for supporting graphic elements — icon style (line vs. filled, rounded vs. sharp), any recurring pattern or motif, and divider/accent treatments — that would feel like they belong with my logo and palette rather than being designed separately. Explain the reasoning for each recommendation.",
+      "expectedOutput": "A short set of supporting-graphics directions (icon style, motif, accents) that cohere with your existing logo and palette, each with reasoning.",
+      "refinementPrompts": ["Give me one concrete example of how this icon style would render for three icons I actually need (e.g. a calendar icon, a checklist icon, a megaphone icon)."],
+      "qualityChecklist": ["Recommendations explicitly tie back to the logo type and palette you gave it", "Nothing recommended would look like it came from a different brand"]
+    }
+  ]
+}

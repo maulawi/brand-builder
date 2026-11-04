@@ -1,0 +1,105 @@
+{
+  "id": "m6",
+  "number": 6,
+  "code": "06",
+  "title": "Brand Guidelines & Final Blueprint",
+  "framework": null,
+  "lessons": [
+    {
+      "id": "6.1",
+      "title": "What belongs in real brand guidelines",
+      "readTime": "5 min read",
+      "status": "approved",
+      "body": [
+        "You've built every piece of a real brand system across five modules. This final one compiles it, adds guardrails, and stress-tests the whole thing against something real — before calling it done.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why most brand-guideline documents never get reopened</div>A 40-page agency deck, full of mood boards and abstract language, is impressive to receive and almost never opened again — there's too much of it, and too little that's actually checkable against a real decision. It answers \"what does our brand feel like\" at length, and rarely answers \"should I use this word\" or \"does this colour work here\" in a way you can check in ten seconds.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What a solo creator actually needs on hand</div>Something short enough to reopen without dreading it, and specific enough to settle a real question fast: is this word on-voice or off? Does this colour match the direction? Is this logo usage allowed? Everything you've built in Modules 1–5 already answers these — this module's job is compiling it into one place, not inventing anything new.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What this module adds that's genuinely new</div>Two things don't exist yet. <strong>Guardrails</strong> — a short, specific \"never do this\" list, which Lesson 6.2 builds directly from everything that's come before. And a <strong>stress test</strong> — Lesson 6.3's check that the whole system actually holds up against one real piece of planned content, not just against itself in the abstract.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What this module compiles into</div>The final Brand Blueprint — eight sections, covering foundation, personality and voice, messaging, visual identity, assets and application, guardrails, a one-page Quick-Reference Card, and a Master Brand Context Prompt you can paste into any AI tool to keep future work consistent. All of it assembled from what you've already built, not written fresh at the end."
+      ],
+      "insight": "A brand document only earns its place if you'd actually reopen it — short and specific beats comprehensive and unread."
+    },
+    {
+      "id": "6.2",
+      "title": "Set your Brand Guardrails",
+      "readTime": "5 min read",
+      "status": "approved",
+      "body": [
+        "Guardrails are the one new thing this module asks you to write — a short, specific list of what you'll never do, derived from everything you've already built rather than invented from scratch.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Where guardrails actually come from</div>Every guardrail should trace back to a specific decision you've already made. Your Voice Rules Card ruled out a tone — that's a guardrail (\"never use the apologetic, hedging tone the Signal Map ruled out\"). Your visual identity ruled out a pairing — that's a guardrail (\"never pair the wordmark with a stock photo\"). A guardrail you can't trace back to an earlier module is usually either too vague to be useful, or a preference that slipped in without the reasoning behind it.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why specific beats comprehensive</div>\"Stay on-brand\" is not a guardrail — it's the goal the guardrails exist to serve, and it's too vague to actually check against. \"Never use three or more exclamation points in one post\" is a guardrail — oddly specific, maybe, but genuinely checkable in the moment you're about to publish something. A short list of checkable rules beats a long list of aspirational ones every time.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">A worked example — hypothetical</div>From the hypothetical content-planning brand built across this module: \"Never use hedging language in an instruction (no 'you might want to consider').\" \"Never pair the wordmark with a stock photo.\" \"Never skip the closing sign-off line on a full post.\" \"Never use third-person language ('users,' 'customers') instead of direct address.\" Each one is short, specific, and traces back to a real decision from an earlier module — Voice Rules, visual identity, the Signature Element, the Voice Rules again.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">How many is enough</div>Somewhere between three and eight is typical — enough to cover the mistakes that would actually matter if they happened, not so many that the list itself becomes something you'd avoid rereading. If you're struggling to stop at eight, the list is probably drifting from \"guardrail\" into \"general brand description,\" which belongs in the Blueprint's other sections, not here."
+      ],
+      "insight": "A guardrail you can't trace back to an earlier module's actual decision is a preference wearing a guardrail's clothing."
+    },
+    {
+      "id": "6.3",
+      "title": "Compile and stress-test your Brand Blueprint",
+      "readTime": "5 min read",
+      "status": "approved",
+      "body": [
+        "Every module before this one produced a reasoned system. This lesson produces evidence that the system actually holds up — by running one real piece of planned content through all of it before calling the Blueprint finished.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">Why a stress test, not just a review</div>Rereading your Anchor, Voice Rules, Message Ladder and visual direction in isolation tells you whether each piece makes sense on its own. It doesn't tell you whether they actually work together on something real. A stress test closes that gap: take one genuine piece of content you're actually planning to publish, and check it against the whole system at once.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What to actually check it against</div>Does the wording match your Voice Rules Card? Does it stay inside your Message Ladder — no claims the ladder doesn't support? Does it respect your guardrails? If it includes any visual element, does it follow your colour and typography direction? This is exactly what the Brand Application Auditor AI prompt (Module 5's Core Prompt) is built to check — reusable anytime you want a second pass on something before it goes out.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What a failed stress test actually means</div>Not that the content is bad — that one piece of the system needs a second look. A hypothetical stress test might find that a planned caption drifts toward the hedging language the Voice Rules ruled out, which is useful information caught before publishing, not a verdict on the whole brand. Treat it the way Offer Engineering treats a failed validation test: information to act on, not a reason to start over.",
+        "<div class=\"label\" style=\"margin:20px 0 10px\">What compiles into the final Blueprint</div>Once the stress test holds up, everything from Modules 1–6 compiles into the eight-section Brand Blueprint: Brand Foundation, Brand Personality & Voice Profile, Messaging Architecture, Visual Identity Brief, Brand Assets & Application Guide, Brand Guardrails, a one-page Quick-Reference Card built to hand to a designer or paste into an AI tool, and the Master Brand Context Prompt — assembled directly from what you've entered, not generated fresh, so it's guaranteed to actually match the system you just tested."
+      ],
+      "insight": "A brand system that's only ever been reviewed in pieces hasn't actually been tested — run one real piece of content through all of it before calling it done."
+    }
+  ],
+  "exercise": {
+    "type": "guardrails",
+    "instructions": "Set your guardrails, then run a real piece of content through your whole system."
+  },
+  "prompts": [
+    {
+      "id": "m6-guidelines-writer",
+      "tier": "core",
+      "category": "Brand Guidelines",
+      "title": "Guidelines Writer",
+      "objective": "Compile the structured fields from Modules 1–5 into the final Blueprint's narrative sections, writing only from what's already there.",
+      "requiredInputs": ["Everything from Modules 1–5 (Anchor, Voice Rules, Message Ladder, Visual Identity, Consistency Grid, Signature Elements)", "Your Guardrails"],
+      "template": "You are a brand guidelines writer. Compile the following into clean narrative sections for a Brand Blueprint document, writing only from what I give you below and never inventing anything I haven't stated. Brand Foundation — Belief: {{m1.belief}}. Audience Truth: {{m1.audienceTruth}}. Promise: {{m1.brandPromise}}. Signature: {{m1.signature}}. Brand name: {{m1.brandName}}. Voice — {{m2.voiceRulesSummary}}. Messaging — One-Liner: {{m3.oneLiner}}. Visual identity — Colour: {{m4.colourSummary}}. Typography: {{m4.typeSummary}}. Logo type: {{m4.logoType}}. Consistency — checked touchpoints: {{m5.consistencyGridSummary}}. Signature elements: {{m5.signatureElements}}. Guardrails: {{m6.guardrailsSummary}}. Write this as six short narrative sections (Foundation, Voice, Messaging, Visual Identity, Application, Guardrails), each a few sentences, in plain usable language — not marketing copy about the brand, documentation of it.",
+      "expectedOutput": "Six short narrative sections, written only from your actual saved fields, ready to sit inside your final Blueprint document.",
+      "refinementPrompts": ["Tighten the whole thing to fit on one printed page without losing any section.", "Rewrite just the Guardrails section as a literal bulleted 'never do this' list."],
+      "qualityChecklist": ["Nothing in the output is invented — every sentence traces to a field you actually filled in", "It reads as documentation, not as marketing copy", "All six sections are present"]
+    },
+    {
+      "id": "m6-brand-consistency-auditor",
+      "tier": "library",
+      "category": "Brand Guidelines",
+      "title": "Brand Consistency Auditor",
+      "objective": "A document-level version of Module 5's Auditor — check an entire piece of long-form content (a full newsletter, a sales page) against your whole compiled system at once.",
+      "requiredInputs": ["Your full compiled guidelines", "The long-form content to check"],
+      "template": "You are a brand consistency auditor. My compiled brand guidelines: [paste your compiled guidelines or Blueprint summary here]. Here's a longer piece of content to check: [paste the full piece here]. Go through it section by section and flag anywhere it drifts from my voice, messaging, visual direction or guardrails — citing the specific guideline it drifts from, not just a general impression.",
+      "expectedOutput": "A section-by-section drift report against your full compiled guidelines, each flag citing a specific guideline.",
+      "refinementPrompts": ["Of everything you flagged, which single change would most improve this piece if I only had time to fix one thing?"],
+      "qualityChecklist": ["Every flag cites a specific part of your guidelines, not a vague impression", "It goes through the content section by section, not just a top-level verdict"]
+    },
+    {
+      "id": "m6-content-review-against-voice-messaging",
+      "tier": "library",
+      "category": "Brand Guidelines",
+      "title": "Content Review Against Voice & Messaging",
+      "objective": "A fast, lighter-weight review for everyday content (a single post or caption) before publishing — quicker than the full Auditor.",
+      "requiredInputs": ["Your Voice Rules and One-Liner", "The content to review"],
+      "template": "You are a brand editor doing a quick pre-publish check. My Voice Rules: [paste them here]. My One-Liner: [paste it here]. Here's what I'm about to publish: [paste it here]. Give me a fast yes/no on whether this is safe to publish as-is, and if not, the one or two specific fixes needed — this is a quick gate before publishing, not a full audit.",
+      "expectedOutput": "A fast publish/don't-publish verdict with at most one or two specific fixes, suited to a quick pre-publish check rather than a deep audit.",
+      "refinementPrompts": ["If the answer was 'fix it first,' give me the fixed version directly."],
+      "qualityChecklist": ["The response is fast and decisive, not a hedge", "Any fix given is specific and ready to use, not vague advice"]
+    },
+    {
+      "id": "m6-master-brand-context-prompt",
+      "tier": "library",
+      "category": "Brand Guidelines",
+      "title": "Master Brand Context Prompt",
+      "objective": "Get a portable context block to paste at the start of any future AI conversation, so every AI tool you use already knows your brand. Note: the primary version of this is assembled automatically from your saved Blueprint data (your Blueprint's eighth section) — this prompt is the optional AI-assisted path to tighten or reformat it, not the only way to get it.",
+      "requiredInputs": ["Your assembled Master Brand Context block (from your Blueprint), if you want it refined"],
+      "template": "You are a prompt engineer. Here is my assembled Master Brand Context block: [paste the block your Blueprint generated, or your own compiled summary]. Tighten this into the most information-dense version possible that would still let any AI tool write convincingly in my voice and brand — remove anything repetitive, but don't remove anything that changes what an AI reading it would actually know about my brand.",
+      "expectedOutput": "A tightened version of your context block, denser but not thinner in actual brand information — ready to paste at the top of any new AI conversation.",
+      "refinementPrompts": ["Give me a version under 100 words for tools with a short context limit, keeping only what's essential."],
+      "qualityChecklist": ["Nothing substantive was removed, only redundancy", "It would still let a new AI conversation sound like your brand from the first reply"]
+    }
+  ]
+}
